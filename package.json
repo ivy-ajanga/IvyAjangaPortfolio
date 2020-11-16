@@ -1,7 +1,7 @@
 {
   "name": "devportfolio-template",
   "version": "1.2.2",
-  "description": "",
+  "description": "Hello and Welcome to MyPortfolio\r If you have any questions just find me on my social Media Platforms as indicated on my website\r You can also reach me at ajangaivy@gmail.com\r Nice to meet you",
   "main": "js/scripts.js",
   "scripts": {
     "watch": "gulp watch"
@@ -14,7 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Ivy Ajanga",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
@@ -27,5 +27,13 @@
     "gulp-sass": "^4.0.2",
     "gulp-uglify": "^3.0.2",
     "gulp-wait": "0.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivy-ajanga/IvyAjangaPortfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ivy-ajanga/IvyAjangaPortfolio/issues"
+  },
+  "homepage": "https://github.com/ivy-ajanga/IvyAjangaPortfolio#readme"
 }
